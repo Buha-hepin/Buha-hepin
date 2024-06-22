@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Buha Hepin</h1>
+<h1 align="center">Hi , I'm Buha Hepin</h1>
 <h3 align="center">I am student in LDRP institute of technology,Gandhinagar</h3>
 
 - 🌱 I’m currently learning **full stack web-development**
